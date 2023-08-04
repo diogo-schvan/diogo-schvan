@@ -5,8 +5,8 @@
 - Se quiserem falar comigo podem me chamar no e-mail diogo.a.schvan@gmail.com
   
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dugg&show_icons=true&theme=dracula&include_all_commites=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dugg&layout=compact&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=diogo-schvan&show_icons=true&theme=dracula&include_all_commites=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-schvan&layout=compact&theme=dracula">
 </div>
 
 <!---
